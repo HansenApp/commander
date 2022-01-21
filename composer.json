@@ -1,0 +1,16 @@
+{
+    "name": "hansen/commander",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hansen\\Commander\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "HansenKhi",
+            "email": "hansenkhi@outlook.com"
+        }
+    ],
+    "require": {}
+}
